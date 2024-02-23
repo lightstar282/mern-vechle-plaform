@@ -44,7 +44,7 @@ __Dispatch305__ is a service that helps dispatchers to communicate with both dri
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/briltec/React_website_frontend.git
+   git clone https://github.com/lightstar282/mern-vechle-platform.git
    ```
 
 1. Install Docker and Docker Compose
